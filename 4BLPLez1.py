@@ -80,6 +80,9 @@ c=3.141592653589793
 print('%.3f' %c) #se vogliamo che il numero venga stampato con 3 cifre dopo la virgola
 print('%.10f' %c) #se dopo la virgola vogliamo 10 cifre
 
+
+print('Volendo si possono stampare i numeri %.2f e %d anche in questo modo comodo' %(a,b))
+
 #Attenzione ad assegnare due valori diversi ad una sola variabile: Python considererà solo quello scritto per ultimo! Vediamo un esempio:
 x=30
 x=18
