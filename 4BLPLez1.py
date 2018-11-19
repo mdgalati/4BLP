@@ -5,7 +5,7 @@ print('Prima breve lezione di Python - 14 novembre 2018\n')
 
 #iniziando una riga con il cancelletto, Python ignorerà automaticamente tutto ciò che segue il carattere # fino al termine della riga.
 
-###con tre cancelletti, in pyzo questa riga appare sottolineata (in Spyder no)
+##con due o più cancelletti, in pyzo questa riga appare sottolineata (in Spyder no)
 
 
 '''
