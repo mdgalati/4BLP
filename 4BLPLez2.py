@@ -2,11 +2,6 @@
 #cominciamo importando le librerie
 import numpy as np
 import math
-#import matplotlib as plt
-import scipy
-import pylab    # è un pacchetto di cui ci siamo dimenticati alla scorsa lezione! E' utile per trattare l'input/output sui file, che discuteremo alla fine
-
-
 
 
 ###ARRAY
