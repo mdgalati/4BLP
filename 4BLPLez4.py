@@ -194,6 +194,7 @@ for i in range (len(x2)):
         Doutx=np.insert(Doutx, k, Dx2[i])
         outy=np.insert(outy, k, y2[i])
         Douty=np.insert(Douty, k, Dy2[i])
+        k+=1
 
 plt.figure(4)
 plt.title('Misure di corrente e tensione senza outliers', fontsize=16)
